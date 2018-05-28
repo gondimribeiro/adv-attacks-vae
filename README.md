@@ -49,3 +49,6 @@ mnist: MNIST dataset
 svhn: SVHN dataset
 
 celeba: CelebA dataset
+
+### References
+* https://github.com/ericjang/draw
