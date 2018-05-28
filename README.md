@@ -1,6 +1,6 @@
 # Adversarial Attacks on Variational Autoencoders
 
-## Code
+## Running
 
 After downloading and preparing the data, to reproduce our experiments, first, run the script trainer.py to train a model and the attack.py to start the attack choosing the same directory. Then, you can compute the AUDDC on the normalized results.
 
