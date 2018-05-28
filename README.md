@@ -1,15 +1,5 @@
 # Adversarial Attacks on Variational Autoencoders
 
-## Requirements
-
-[Tensorflow](https://www.tensorflow.org/)
-
-Dependency installation:
-
-```
-pip install seaborn sklearn scikit-image python-mnist
-```
-
 ## Code
 
 After downloading and preparing the data, to reproduce our experiments, first, run the script trainer.py to train a model and the attack.py to start the attack choosing the same directory. Then, you can compute the AUDDC on the normalized results.
