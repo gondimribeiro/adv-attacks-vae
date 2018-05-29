@@ -41,4 +41,5 @@ svhn: SVHN dataset
 celeba: CelebA dataset
 
 ### References
+* https://github.com/sjchoi86/advanced-tensorflow
 * https://github.com/ericjang/draw
