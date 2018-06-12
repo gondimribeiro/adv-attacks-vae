@@ -1,5 +1,10 @@
 # Adversarial Attacks on Variational Autoencoders
 
+Arxiv link will be posted in the near future!
+
+Please cite our work:
+> George Gondim-Ribeiro, Pedro Tabacof, and Eduardo Valle. Adversarial Attacks on Variational Autoencoders.
+
 ## Running
 
 After downloading and preparing the data, to reproduce our experiments, first, run the script trainer.py to train a model and the attack.py to start the attack choosing the same directory. Then, you can compute the AUDDC on the normalized results.
@@ -40,6 +45,7 @@ svhn: SVHN dataset
 
 celeba: CelebA dataset
 
-### References
+### License
+This code is based upon the repositories below, please check their license before any use. This code is intended ONLY for academic purposes.
 * https://github.com/sjchoi86/advanced-tensorflow
 * https://github.com/ericjang/draw
