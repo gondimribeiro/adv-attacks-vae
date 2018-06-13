@@ -1,9 +1,9 @@
 # Adversarial Attacks on Variational Autoencoders
 
-Arxiv link will be posted in the near future!
+Code for the implementation of the paper ["Adversarial Attacks on Variational Autoenconders" - George Gondim-Ribeiro, Pedro Tabacof, and Eduardo Valle](arXiv link: https://arxiv.org/abs/1806.04646).
 
 Please cite our work:
-> George Gondim-Ribeiro, Pedro Tabacof, and Eduardo Valle. Adversarial Attacks on Variational Autoencoders.
+> George Gondim-Ribeiro, Pedro Tabacof, and Eduardo Valle. Adversarial Attacks on Variational Autoencoders. arXiv:1806.04646.
 
 ## Running
 
